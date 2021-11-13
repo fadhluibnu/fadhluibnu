@@ -3,11 +3,17 @@
 <hr>
 
 <h3>My Skills</h3>
-[![image](https://user-images.githubusercontent.com/81508602/141646603-d3155dcc-0954-4dce-85c5-b5bfad3de32c.png)](https://github.com/fadhluibnu?tab=repositories&q=&type=&language=html&sort=)
-[![image](https://user-images.githubusercontent.com/81508602/141646646-a9aa8ec5-e4bd-44af-b731-2997e278bc2e.png)](https://github.com/fadhluibnu?tab=repositories&q=&type=&language=css&sort=)
-[![image](https://user-images.githubusercontent.com/81508602/141646627-ff3b1b06-9b6c-412f-9258-85332863bd40.png)](https://github.com/fadhluibnu)
-[![image](https://user-images.githubusercontent.com/81508602/141646758-f73cd1e6-7e50-402a-857f-7e14f1d5b951.png)](https://github.com/fadhluibnu?tab=repositories&q=&type=&language=php&sort=)
-[![image](https://user-images.githubusercontent.com/81508602/141646771-42995b9e-7d29-4962-bf16-d450456fe413.png)](https://github.com/fadhluibnu)
+<div align=left>
+<img src="https://user-images.githubusercontent.com/81508602/141646603-d3155dcc-0954-4dce-85c5-b5bfad3de32c.png"> </img>
+<img src="https://user-images.githubusercontent.com/81508602/141646646-a9aa8ec5-e4bd-44af-b731-2997e278bc2e.png"> </img>
+</div>
+<div align=left>
+<img src="https://user-images.githubusercontent.com/81508602/141646627-ff3b1b06-9b6c-412f-9258-85332863bd40.png"> </img>
+<img src="https://user-images.githubusercontent.com/81508602/141646758-f73cd1e6-7e50-402a-857f-7e14f1d5b951.png"> </img>
+</div>
+<div align=left>
+<img src="https://user-images.githubusercontent.com/81508602/141646771-42995b9e-7d29-4962-bf16-d450456fe413.png"> </img>
+</div>
 <hr>
 
 
