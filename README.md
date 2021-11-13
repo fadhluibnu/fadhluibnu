@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there,  👋
+<h1>I'm Fadhlu Ibnu</h1>
+
+### My Skills
+
+### GitHub Stars
+[![Fadhlu Ibnu](https://github-readme-stats.vercel.app/api?username=fadhluibnu&show_icons=true&theme=tokyonight)](https://github.com/fadhluibnu)
+
 
 <!--
 **fadhluibnu/fadhluibnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
