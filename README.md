@@ -2,6 +2,10 @@
 <p>Hi, I'm Fadhlu Ibnu, you can call me Ibnu, I'm a Front - End Developer, Back - End Developer. I am 16 years old and now I go to SMK Telkom Purwokerto</p>
 <hr>
 
+<h3>GitHub Stars</h3>
+[![Fadhlu](https://github-readme-stats.vercel.app/api?username=fadhluibnu&show_icons=true&theme=tokyonight)](https://github.com/fadhluibnu)
+<hr>
+
 <h3>My Skills</h3>
 <div align=left>
 <img src="https://user-images.githubusercontent.com/81508602/141646603-d3155dcc-0954-4dce-85c5-b5bfad3de32c.png"> </img>
@@ -17,10 +21,6 @@
 <hr>
 
 
-<h3>GitHub Stars</h3>
-
-[![Fadhlu Ibnu](https://github-readme-stats.vercel.app/api?username=fadhluibnu&show_icons=true&theme=tokyonight)](https://github.com/fadhluibnu)
-<hr>
 
 <!--
 **fadhluibnu/fadhluibnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
