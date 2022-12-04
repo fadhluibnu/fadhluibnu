@@ -1,5 +1,5 @@
 # I'm Fadhlu Ibnu  👋
-#### Hi, I'm Fadhlu Ibnu, you can call me Ibnu, I'm a Front - End Developer, Back - End Developer. I am 16 years old and now I go to SMK Telkom Purwokerto
+#### Hi, I'm Fadhlu Ibnu, you can call me Ibnu, I'm a Back - End Developer. I am 17 years old and now I go to SMK Telkom Purwokerto
 
 ## GitHub Stars
 ![Fadhlu Ibnu](https://github-readme-stats.vercel.app/api?username=fadhluibnu&show_icons=true&theme=tokyonight)
