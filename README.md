@@ -15,6 +15,7 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
 - 📫 Hubungi saya: **fahluibnua@gmail.com**
 - ⚡ Fun fact: **Saya suka bermain gitar di waktu luang**
 
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -24,6 +25,7 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadhluibnu&theme=radical" alt="fadhluibnu" />
 </div>
+-->
 
 ## 💻 Kemampuan Teknis
 
@@ -119,7 +121,8 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
         </a>
       </p>
       <p align="center">
-        <img src="php.svg" height="28" alt="PHP" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -154,7 +157,7 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
         </a>
       </p>
       <p align="center">
-        <img src="php.svg" height="28" alt="PHP" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
@@ -201,7 +204,7 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-        <img src="php.svg" height="28" alt="PHP" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
         <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -218,7 +221,7 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
         </a>
       </p>
       <p align="center">
-        <img src="php.svg" height="28" alt="PHP" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -264,7 +267,7 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
         </a>
       </p>
       <p align="center">
-        <img src="php.svg" height="28" alt="PHP" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -279,7 +282,7 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
 ## �‍💻 Pengalaman Kerja
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total_Experience-5+_Years-blue?style=for-the-badge" alt="Total Experience" />
+  <img src="https://img.shields.io/badge/Total_Experience-3+_Years-blue?style=for-the-badge" alt="Total Experience" />
 </div>
 
 ```mermaid
@@ -289,11 +292,8 @@ gantt
     axisFormat %Y-%m
     
     section Karir
-    Full Stack Developer @ Tech Corp     :2023-01, 2024-06
-    Web Developer @ Telkom Test House    :2023-04, 2023-09
-    Mobile Developer @ MobileInc         :2022-01, 2022-12
-    Frontend Engineer @ WebSolutions     :2021-04, 2021-12
-    UI/UX Intern @ DesignStudio          :2020-06, 2020-12
+    Web Developer @ Telkom Test House                  :2023-04, 2023-09
+    Freelance Fullstack Developer @ MobileInc          :2024-04, 2025-04
 ```
 
 ### 🚀 Highlight Proyek Profesional
@@ -304,34 +304,12 @@ gantt
       <img src="https://img.shields.io/badge/Telkom_Test_House-2023-orange?style=for-the-badge" alt="Telkom Test House" />
     </td>
     <td>
-      <b>Website PDS (Platform Digital Service)</b><br/>
-      • Mengembangkan platform digital service untuk Telkom dengan Laravel, MySQL dan Tailwind CSS<br/>
-      • Mengimplementasikan sistem manajemen konten dan dashboard analitik real-time<br/>
-      • Meningkatkan performa loading halaman sebesar 40% dengan teknik optimasi front-end<br/>
+      <b>Website PDS (Pengendali Dokumen SMM)</b><br/>
+      This project is the result of an internship at Telkom Test House. This project gave me a valuable lesson where a programmer does not only focus on making codes. But programmers must also mature the system flow before the coding stage. At that time to mature the system flow I used UML such as Use Case, Activity Diagram, Class Diagram, Flowchart and ERD.
+      • Mengembangkan platform untuk Telkom dengan Laravel, MySQL dan Tailwind CSS<br/>
+      • Mengimplementasikan sistem manajemen dokumen dan dashboard analitik real-time<br/>
       • <i>Teknologi: PHP, Laravel, JavaScript, Tailwind CSS, MySQL</i><br/>
       • <a href="https://github.com/fadhluibnu/website-pds">Lihat repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" align="center">
-      <img src="https://img.shields.io/badge/Tech_Corp-2023--2024-blueviolet?style=for-the-badge" alt="Tech Corp" />
-    </td>
-    <td>
-      <b>Super App Platform</b><br/>
-      • Memimpin pengembangan aplikasi super untuk ekosistem digital terintegrasi<br/>
-      • Menerapkan arsitektur microservices dan API gateway untuk skalabilitas<br/>
-      • <i>Teknologi: React Native, TypeScript, Firebase, Node.js</i>
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" align="center">
-      <img src="https://img.shields.io/badge/MobileInc-2022-blue?style=for-the-badge" alt="MobileInc" />
-    </td>
-    <td>
-      <b>Diet Food App</b><br/>
-      • Mengembangkan aplikasi mobile kesehatan dengan Flutter dan backend Laravel<br/>
-      • Mengimplementasikan fitur personalisasi diet dan tracking nutrisi<br/>
-      • <i>Teknologi: Flutter, Dart, Laravel, MySQL</i>
     </td>
   </tr>
 </table>
