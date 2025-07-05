@@ -71,11 +71,9 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
 
 ## 🏆 Pencapaian
 
-<!-- - 🥇 Juara 1 Kompetisi Web Development Tingkat Nasional (2023)
-- 🥈 Runner-up Hackathon ASEAN 2024
-- 📜 Google Associate Android Developer Certification
-- 📜 AWS Certified Solutions Architect
-- 🏅 100+ Repository di GitHub dengan 500+ stars -->
+- 🥉 Juara 3 Inovasi Bisnis Digital Berbasis Keilmuan (2024)
+- 📜 Alibaba Cloud Certification (2024)
+- 📜 Sertifikasi Keahlian Rekayasa Perangkat Lunak (2023)
 
 ## 🔥 Proyek Unggulan
 
