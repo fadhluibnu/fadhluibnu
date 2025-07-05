@@ -109,7 +109,7 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
       </p>
-      <p align="center">Sistem Informasi Manajemen Jadwal dengan fitur penjadwalan otomatis dan notifikasi</p>
+      <p align="center">Sistem Informasi Manajemen Jadwal dengan fitur penjadwalan otomatis</p>
     </td>
   </tr>
   <tr>
@@ -129,7 +129,7 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
       </p>
-      <p align="center">Aplikasi Manajemen Bimbingan dan Konseling Siswa berbasis web</p>
+      <p align="center">Platform yang menghubungkan mahasiswa berbakat dengan klien yang membutuhkan jasa kreatif dan profesional dengan harga terjangkau.</p>
     </td>
     <td width="50%">
       <h3 align="center">EduSen</h3>
@@ -145,7 +145,7 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
         <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
       </p>
-      <p align="center">Aplikasi mobile edukasi sensitif yang menyediakan materi pembelajaran interaktif</p>
+      <p align="center">Platform yang membantu edukasi khususnya kaum disabilitas sensorik. Dimana mereka bisa belajar di course yang kami sediakan.</p>
     </td>
   </tr>
   <tr>
@@ -193,7 +193,7 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
       </p>
-      <p align="center">Proyek untuk Web Design Competition 2023 dengan desain responsif dan interaktif</p>
+      <p align="center">Proyek untuk Web Design Competition 2023 traveling atau mengenalkan destinasi wisata nusantara dengan desain responsif dan interaktif</p>
     </td>
     <td width="50%">
       <h3 align="center">Diet Food App</h3>
@@ -227,7 +227,7 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
       </p>
-      <p align="center">Website profil perusahaan dengan desain modern dan animasi yang menarik</p>
+      <p align="center">Website profil perusahaan untuk melakukan manajemen dokumen yang semula offline menjadi berbasis digital atau online dengan desain modern dan animasi yang menarik</p>
     </td>
     <td width="50%">
       <h3 align="center">SEMENT - Shop Management</h3>
@@ -257,7 +257,7 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
       </p>
-      <p align="center">Template website e-commerce untuk toko furniture dengan UI yang menarik</p>
+      <p align="center">Template website landing page UMKM untuk toko furniture dengan UI yang menarik</p>
     </td>
     <td width="50%">
       <h3 align="center">I-Secret Profile</h3>
