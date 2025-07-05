@@ -293,7 +293,7 @@ gantt
     
     section Karir
     Web Developer @ Telkom Test House                  :2023-04, 2023-09
-    Freelance Fullstack Developer @ MobileInc          :2024-04, 2025-04
+    Freelance Fullstack Developer @ InSoft.ID          :2024-04, 2025-04
 ```
 
 ### 🚀 Highlight Proyek Profesional
