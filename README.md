@@ -131,55 +131,6 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
       <p align="center">Platform yang menghubungkan mahasiswa berbakat dengan klien yang membutuhkan jasa kreatif dan profesional dengan harga terjangkau.</p>
     </td>
     <td width="50%">
-      <h3 align="center">EduSen</h3>
-      <p align="center">
-        <a href="https://github.com/fadhluibnu/edusen">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadhluibnu&repo=edusen&theme=radical" alt="edusen" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-      </p>
-      <p align="center">Platform yang membantu edukasi khususnya kaum disabilitas sensorik. Dimana mereka bisa belajar di course yang kami sediakan.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Perpustakaan Laravel</h3>
-      <p align="center">
-        <a href="https://github.com/fadhluibnu/perpustakaan_laravel">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadhluibnu&repo=perpustakaan_laravel&theme=radical" alt="perpustakaan_laravel" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-      </p>
-      <p align="center">Sistem Informasi Perpustakaan dengan fitur peminjaman, katalog dan manajemen buku</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Steganography</h3>
-      <p align="center">
-        <a href="https://github.com/fadhluibnu/steganography">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadhluibnu&repo=steganography&theme=radical" alt="steganography" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-      </p>
-      <p align="center">Aplikasi penyembunyian pesan rahasia dalam gambar menggunakan teknik steganografi</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <h3 align="center">WDC 2023</h3>
       <p align="center">
         <a href="https://github.com/fadhluibnu/wdc_2023">
@@ -194,24 +145,53 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
       </p>
       <p align="center">Proyek untuk Web Design Competition 2023 traveling atau mengenalkan destinasi wisata nusantara dengan desain responsif dan interaktif</p>
     </td>
-    <td width="50%">
-      <h3 align="center">Diet Food App</h3>
+    <!-- <td width="50%">
+      <h3 align="center">EduSen</h3>
       <p align="center">
-        <a href="https://github.com/fadhluibnu/diet_food_app">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadhluibnu&repo=diet_food_app&theme=radical" alt="diet_food_app" />
+        <a href="https://github.com/fadhluibnu/edusen">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadhluibnu&repo=edusen&theme=radical" alt="edusen" />
         </a>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
       </p>
-      <p align="center">Aplikasi mobile untuk membantu pengguna merencanakan diet dengan rekomendasi makanan sehat</p>
-    </td>
+      <p align="center">Platform yang membantu edukasi khususnya kaum disabilitas sensorik. Dimana mereka bisa belajar di course yang kami sediakan.</p>
+    </td> -->
   </tr>
   <tr>
+    <!-- <td width="50%">
+      <h3 align="center">Perpustakaan Laravel</h3>
+      <p align="center">
+        <a href="https://github.com/fadhluibnu/perpustakaan_laravel">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadhluibnu&repo=perpustakaan_laravel&theme=radical" alt="perpustakaan_laravel" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      </p>
+      <p align="center">Sistem Informasi Perpustakaan dengan fitur peminjaman, katalog dan manajemen buku</p>
+    </td> -->
+    <td width="50%">
+      <h3 align="center">Steganography</h3>
+      <p align="center">
+        <a href="https://github.com/fadhluibnu/steganography">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadhluibnu&repo=steganography&theme=radical" alt="steganography" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+      </p>
+      <p align="center">Aplikasi penyembunyian pesan rahasia dalam gambar menggunakan teknik steganografi</p>
+    </td>
     <td width="50%">
       <h3 align="center">Website PDS</h3>
       <p align="center">
@@ -228,7 +208,27 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
       </p>
       <p align="center">Website profil perusahaan untuk melakukan manajemen dokumen yang semula offline menjadi berbasis digital atau online dengan desain modern dan animasi yang menarik</p>
     </td>
-    <td width="50%">
+  </tr>
+  <tr>
+    <!-- <td width="50%">
+      <h3 align="center">Diet Food App</h3>
+      <p align="center">
+        <a href="https://github.com/fadhluibnu/diet_food_app">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadhluibnu&repo=diet_food_app&theme=radical" alt="diet_food_app" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      </p>
+      <p align="center">Aplikasi mobile untuk membantu pengguna merencanakan diet dengan rekomendasi makanan sehat</p>
+    </td> -->
+  </tr>
+  <tr>
+    <!-- <td width="50%">
       <h3 align="center">SEMENT - Shop Management</h3>
       <p align="center">
         <a href="https://github.com/fadhluibnu/SEMENT-Shop_Mangement">
@@ -240,7 +240,7 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
         <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
       </p>
       <p align="center">Sistem manajemen toko untuk inventaris, penjualan, dan laporan keuangan</p>
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td width="50%">
