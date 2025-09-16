@@ -10,11 +10,12 @@
 
 Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pada pengembangan web dan mobile. Saya senang membangun aplikasi yang menarik, efisien, dan berguna bagi pengguna.
 
+<!--
 - 🌱 Saat ini saya sedang mempelajari **AI & Machine Learning**
 - 👨‍💻 Semua proyek saya tersedia di [fadhluibnu.github.io](https://fadhluibnu.github.io)
 - 📫 Hubungi saya: **fahluibnua@gmail.com**
 - ⚡ Fun fact: **Saya suka bermain gitar di waktu luang**
-
+-->
 <!--
 ## 📊 GitHub Stats
 
