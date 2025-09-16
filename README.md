@@ -98,6 +98,23 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
       <p align="center">Sistem deteksi penyakit pada daun mangga menggunakan Computer Vision dan Deep Learning</p>
     </td>
     <td width="50%">
+      <h3 align="center">Hafalan Santri</h3>
+      <p align="center">
+        <a href="https://github.com/fadhluibnu/hafalan_santri">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadhluibnu&repo=Mango-Leaf-Detection&theme=radical" alt="Mango-Leaf-Detection" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Inertia.js-6366F1?style=for-the-badge&logo=&logoColor=white" alt="Inertia.js" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+      </p>
+      <p align="center">Sistem untuk melakukan pencatatan hafalan santri dan manajeman pondok dari yayasan sampai cabang</p>
+    </td>
+<!--     <td width="50%">
       <h3 align="center">SIMAJA</h3>
       <p align="center">
         <a href="https://github.com/fadhluibnu/simaja">
@@ -109,10 +126,10 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
       </p>
       <p align="center">Sistem Informasi Manajemen Jadwal dengan fitur penjadwalan otomatis</p>
-    </td>
+    </td> -->
   </tr>
   <tr>
-    <td width="50%">
+<!--     <td width="50%">
       <h3 align="center">Mahabisa</h3>
       <p align="center">
         <a href="https://github.com/fadhluibnu/mahabisa">
@@ -144,7 +161,7 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
       </p>
       <p align="center">Proyek untuk Web Design Competition 2023 traveling atau mengenalkan destinasi wisata nusantara dengan desain responsif dan interaktif</p>
-    </td>
+    </td> -->
     <!-- <td width="50%">
       <h3 align="center">EduSen</h3>
       <p align="center">
@@ -179,7 +196,7 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
       <p align="center">Sistem Informasi Perpustakaan dengan fitur peminjaman, katalog dan manajemen buku</p>
     </td> -->
     <td width="50%">
-      <h3 align="center">Steganography</h3>
+<!--       <h3 align="center">Steganography</h3>
       <p align="center">
         <a href="https://github.com/fadhluibnu/steganography">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadhluibnu&repo=steganography&theme=radical" alt="steganography" />
@@ -207,7 +224,7 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
       </p>
       <p align="center">Website profil perusahaan untuk melakukan manajemen dokumen yang semula offline menjadi berbasis digital atau online dengan desain modern dan animasi yang menarik</p>
-    </td>
+    </td> -->
   </tr>
   <tr>
     <!-- <td width="50%">
@@ -243,7 +260,7 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
     </td> -->
   </tr>
   <tr>
-    <td width="50%">
+<!--     <td width="50%">
       <h3 align="center">Template Furniture</h3>
       <p align="center">
         <a href="https://github.com/insoftid/template-furniture">
@@ -274,7 +291,7 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
       </p>
       <p align="center">Website profil organisasi I-Secret UNNES dengan animasi modern dan responsif</p>
-    </td>
+    </td> -->
   </tr>
 </table>
 
