@@ -1,4 +1,4 @@
-# 👋 Halo, Saya Fadhlu Ibnu
+# 👋 Halo, I'm Fadhlu Ibnu
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fadhluibnu&style=flat-square&color=blueviolet)
 
@@ -8,7 +8,7 @@
 
 ## 🚀 Tentang Saya
 
-Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pada pengembangan web dan mobile. Saya senang membangun aplikasi yang menarik, efisien, dan berguna bagi pengguna.
+I'm a passionate software developer, focusing on web and mobile development. I enjoy building engaging, efficient, and useful applications for users.
 
 <!--
 - 🌱 Saat ini saya sedang mempelajari **AI & Machine Learning**
@@ -73,9 +73,9 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
 
 ## 🏆 Pencapaian
 
-- 🥉 Juara 3 Inovasi Bisnis Digital Berbasis Keilmuan (2024)
+- 🥉 3rd Place in Science-Based Digital Business Innovation (2024)
 - 📜 Alibaba Cloud Certification (2024)
-- 📜 Sertifikasi Keahlian Rekayasa Perangkat Lunak (2023)
+- 📜 Software Engineering Expertise Certification (2023)
 
 ## 🔥 Proyek Unggulan
 
@@ -96,7 +96,7 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
       </p>
-      <p align="center">Sistem deteksi penyakit pada daun mangga menggunakan Computer Vision dan Deep Learning</p>
+      <p align="center">Mango leaf disease detection system using Computer Vision and Deep Learning</p>
     </td>
     <td width="50%">
       <h3 align="center">Hafalan Santri</h3>
@@ -113,7 +113,7 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
         <img src="https://img.shields.io/badge/Inertia.js-6366F1?style=for-the-badge&logo=&logoColor=white" alt="Inertia.js" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
       </p>
-      <p align="center">Sistem untuk melakukan pencatatan hafalan santri dan manajeman pondok dari yayasan sampai cabang</p>
+      <p align="center">A system for recording students' memorization and managing Islamic boarding schools from the foundation to the branches.</p>
     </td>
 <!--     <td width="50%">
       <h3 align="center">SIMAJA</h3>
@@ -130,7 +130,7 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
     </td> -->
   </tr>
   <tr>
-<!--     <td width="50%">
+  <td width="50%">
       <h3 align="center">Mahabisa</h3>
       <p align="center">
         <a href="https://github.com/fadhluibnu/mahabisa">
@@ -146,8 +146,23 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
       </p>
-      <p align="center">Platform yang menghubungkan mahasiswa berbakat dengan klien yang membutuhkan jasa kreatif dan profesional dengan harga terjangkau.</p>
+      <p align="center">A platform that connects talented students with clients who need creative and professional services at affordable prices.</p>
     </td>
+    <td>
+    <h3 align="center">Steganography</h3>
+      <p align="center">
+        <a href="https://github.com/fadhluibnu/steganography">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadhluibnu&repo=steganography&theme=radical" alt="steganography" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+      </p>
+      <p align="center">Application for hiding secret messages in images using steganography techniques</p>
+    </td>
+<!--     
     <td width="50%">
       <h3 align="center">WDC 2023</h3>
       <p align="center">
@@ -197,19 +212,7 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan fokus pa
       <p align="center">Sistem Informasi Perpustakaan dengan fitur peminjaman, katalog dan manajemen buku</p>
     </td> -->
     <td width="50%">
-<!--       <h3 align="center">Steganography</h3>
-      <p align="center">
-        <a href="https://github.com/fadhluibnu/steganography">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadhluibnu&repo=steganography&theme=radical" alt="steganography" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-      </p>
-      <p align="center">Aplikasi penyembunyian pesan rahasia dalam gambar menggunakan teknik steganografi</p>
-    </td>
+<!--       
     <td width="50%">
       <h3 align="center">Website PDS</h3>
       <p align="center">
@@ -329,6 +332,23 @@ gantt
       • <a href="https://github.com/fadhluibnu/website-pds">Lihat repository</a>
     </td>
   </tr>
+  <tr>
+  <td width="20%" align="center">
+    <img src="https://img.shields.io/badge/Sistem_Hafalan_Santri-2024-blue?style=for-the-badge" alt="Sistem Hafalan Santri" />
+  </td>
+  <td>
+    <b>Sistem Hafalan Santri</b><br/>
+    Sistem ini dirancang untuk membantu yayasan dalam mengelola hafalan santri secara digital, menggantikan pencatatan manual yang rawan hilang. 
+    Proyek ini menekankan pentingnya perancangan alur sistem sebelum pengembangan, dengan menggunakan UML seperti Use Case, Activity Diagram, Flowchart, Class Diagram, dan ERD.<br/>
+    • Super Admin (yayasan) dapat membuat pondok cabang, membuat akun admin, dan memonitor seluruh data cabang.<br/>
+    • Admin Cabang dapat mengelola struktur pondok (kelas, tingkat, angkatan, semester), data guru, data santri, serta input hafalan manual atau melalui upload CSV.<br/>
+    • Guru dapat mencatat setoran hafalan santri, memberikan nilai (A/B/C), dan mencetak kartu setoran harian/bulanan.<br/>
+    • Santri dapat melihat profil pribadi, progres hafalan, dan rekap hafalan mereka.<br/>
+    • <i>Teknologi: Laravel, PHP, MySQL, Tailwind CSS, JavaScript</i><br/>
+    • <a href="https://github.com/fadhluibnu/sistem-hafalan-santri">Lihat repository</a>
+  </td>
+</tr>
+
 </table>
 
 ## 🌐 Sosial Media
